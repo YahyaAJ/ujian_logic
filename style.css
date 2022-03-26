@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    color: #fff;
+    background: url(bg.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.logic{
+    margin: 10px;
+
+}
